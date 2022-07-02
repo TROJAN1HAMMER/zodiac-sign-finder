@@ -1,10 +1,13 @@
-# The input is goven for getting zodiac signs
+print("Hi!")
+name = input("What is your name:")
+
+# The input is given for getting zodiac signs
 
 birth_date = int(input("What is your birth date:"))
 birth_month = (input("What is the month of your birth:"))
 
 print("Since your birth month is:", birth_month)
-print("Since your birth date is:", birth_date)
+print("And Since your birth date is:", birth_date)
 
 # For defying zodiac signs in january
 
@@ -82,4 +85,5 @@ elif birth_month == "december":
     if birth_date in range(23, 32):
         print("YOur zodiac sign is Capricornus.")
 
-print("Thank you for using this, hope your found your zodiac sign.")
+print("Thank you for using this, " ,name )
+print("hope your found your zodiac sign.")
