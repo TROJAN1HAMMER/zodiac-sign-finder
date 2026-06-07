@@ -263,7 +263,7 @@ Your zodiac sign is Tarus.
 
 ## 👨‍💻 Author
 
-**TROJAN1HAMMER**  
+**TROJAN1HAMMER/Harshith B**  
 GitHub: [@TROJAN1HAMMER](https://github.com/TROJAN1HAMMER)  
 Repository: [zodiac-sign-finder](https://github.com/TROJAN1HAMMER/zodiac-sign-finder)
 
